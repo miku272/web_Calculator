@@ -33,13 +33,14 @@ html, body {
 
 .row input {
     margin: 10px 1px;
-    padding: 18px 22px;
+    padding: 18px 30px;
     font-size: 1rem;
 }
 
 .button {
     padding: 20px;
     margin: 0 2px;
+    width: 60px;
     border: 2px solid black;
     border-radius: 10px;
     cursor: pointer;
